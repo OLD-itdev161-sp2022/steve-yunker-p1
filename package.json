@@ -1,0 +1,26 @@
+{
+  "name": "steve-yunker-p1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itdev161-sp2022/steve-yunker-p1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itdev161-sp2022/steve-yunker-p1/issues"
+  },
+  "homepage": "https://github.com/itdev161-sp2022/steve-yunker-p1#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.1",
+    "path": "^0.12.7"
+  }
+}
